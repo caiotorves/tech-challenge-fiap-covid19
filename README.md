@@ -15,3 +15,7 @@ A análise foca na correlação de fatores multidisciplinares:
 
 ## 🛠️ Como Executar
 O arquivo principal `.ipynb` deve ser carregado no Google Colab. Certifique-se de instalar e iniciar a sessão Spark conforme as instruções contidas nas células iniciais do notebook.
+
+## 📊 Visualização do Dashboard
+Para visualizar os gráficos analíticos e interativos deste projeto, acesse o link abaixo:
+👉 [CLIQUE AQUI PARA ABRIR O RELATÓRIO](https://app.powerbi.com/view?r=eyJrIjoiNWJmZDQ3YmMtZTJhZC00Mjg4LWExYmUtMmY4MzkyYjRlYmFkIiwidCI6IjhkZmU1ZmEyLTYwMWEtNDk2Ny1hNGI0LWM4YWY4NjFlZjNmMSJ9)
